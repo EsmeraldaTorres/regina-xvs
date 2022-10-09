@@ -180,7 +180,11 @@ button:focus {
   height: min-content;
   margin: 0;
   /* background-color: #12141d; */
-  background-image: url("./assets/img/pexels-karolina-grabowska-4040592.jpg");
+  background-image: linear-gradient(
+      rgba(5, 7, 12, 0.044),
+      rgba(5, 7, 12, 0.023)
+    ),
+    url("./assets/img/pexels-karolina-grabowska-4040592.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -391,7 +395,7 @@ hr {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url("./assets/img/Regina-13.jpeg");
+  background-image: url("./assets/img/Regina-1.jpeg");
 }
 .window {
   color: white;
