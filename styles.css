@@ -146,7 +146,7 @@ button:focus {
       rgba(5, 7, 12, 0.044),
       rgba(5, 7, 12, 0.023)
     ),
-    url("./assets/img/lilabg3.png");
+    url("./assets/img/background.png");
   padding: 0;
   margin: 0;
   font-size: 2rem;
@@ -479,7 +479,7 @@ hr {
   padding-bottom: 3rem;
   height: max-content;
   margin: 0;
-  background-image: url("./assets/img/lilabg3.png");
+  background-image: url("./assets/img/background.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: bottom;
@@ -489,7 +489,7 @@ hr {
   padding-bottom: 3rem;
   height: max-content;
   margin: 0;
-  background-image: url("./assets/img/lilabg3.png");
+  background-image: url("./assets/img/background.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: bottom;
@@ -681,7 +681,7 @@ a:hover {
   padding-top: 4rem !important;
   padding-bottom: 4rem !important;
   color: white;
-  background-image: url("./assets/img/lilabg3.png");
+  background-image: url("./assets/img/background.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
