@@ -8,6 +8,7 @@ function abrir() {
   document.getElementById("pulse").classList.add("hide");
   document.getElementById("parent-div").classList.remove("test-class");
   document.getElementsByTagName("body")[0].classList.remove("avoiding-scroll");
+  audio.play();
 
   window.scrollTo(0, 0);
   setTimeout(function () {
@@ -16,7 +17,6 @@ function abrir() {
     document.getElementById("invitacion").classList.remove("hide");
     document.getElementById("name").classList.add("animate__zoomIn");
     document.getElementById("xv").classList.add("animate__slideInUp");
-    audio.play();
   }, 2500);
 }
 
@@ -36,7 +36,7 @@ playPause.addEventListener("click", () => {
 
 // a regresiva -------------------------------------------------------------------
 // Set the date we're counting down to
-var countDownDate = new Date("Oct 29, 2022 14:30").getTime();
+var countDownDate = new Date("Dec 16, 2023 16:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function () {
