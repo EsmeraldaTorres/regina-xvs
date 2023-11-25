@@ -556,6 +556,10 @@ h3 {
   box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px,
     rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
 }
+.img-vesti {
+  width: 200px;
+  height: 200px;
+}
 .bg-gold {
   background-color: rgb(168, 143, 105) !important;
 }
@@ -693,7 +697,7 @@ a:hover {
 .bg-vestimenta {
   height: min-content !important;
   color: white;
-  background-image: url("./assets/img/pexels-madison-inouye-1831234.jpg");
+  background-image: url("./assets/img/lilabg2.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
