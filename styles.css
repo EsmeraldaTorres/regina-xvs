@@ -170,7 +170,7 @@ button:focus {
 
 .cuenta-regresiva {
   text-align: center;
-  font-size: 1.5rem;
+  font-size: 1.8rem;
   /* text-shadow: 1px 1px 2px rgba(20, 17, 17, 0.507); */
 }
 .txt-pink {
@@ -292,7 +292,7 @@ button:focus {
 }
 .cuenta-regresiva {
   text-align: center;
-  font-size: 1.7rem;
+  font-size: 2rem;
 }
 .cuenta {
   display: flex;
@@ -359,7 +359,7 @@ hr {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url("./assets/img/arantza4.jpeg");
+  background-image: url("./assets/img/arantza11.jpeg");
 }
 .window-back3 {
   height: 100vh;
@@ -589,6 +589,12 @@ button:hover {
 }
 .w-30 {
   width: 30%;
+}
+.txt-lila {
+  color: rgb(133 85 126) !important;
+}
+.txt-lila1 {
+  color: #800049a3 !important;
 }
 /* segundo window */
 .txt-bolder {
@@ -878,7 +884,7 @@ a:hover {
   }
 
   .cuenta-regresiva {
-    font-size: 2rem;
+    font-size: 2.3rem;
   }
   .owl-container {
     width: 60%;
